@@ -1,0 +1,4 @@
+{
+    "testRepo": "Drum-Kit-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
